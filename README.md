@@ -1,4 +1,16 @@
 <p align="center">
+  <a href="https://www.metmuseum.org/art/collection/search/436105">
+    <img alt="La Mort de Socrate" src="https://raw.githubusercontent.com/odest/odest/refs/heads/master/art.jpg" />
+  </a>
+</p>
+
+<div align="center">
+  
+<h1>Hi, I'm just an ordinary man.</h1>
+
+</div>
+
+<p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=odest&hide_border=true&theme=transparent"/> 
 </p>
 <div align="center">
