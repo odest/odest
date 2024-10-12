@@ -4,11 +4,13 @@
   </a>
 </p>
 
-<div align="center">
-  
-<h1>Hi, I'm just an ordinary man.</h1>
+<br>
 
+<div align="center">
+<h1>Welcome to the Dimension of Manifestations</h1>
 </div>
+
+<br>
 
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=odest&hide_border=true&theme=transparent"/> 
