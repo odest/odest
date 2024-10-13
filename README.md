@@ -12,6 +12,23 @@
 
 <br>
 
+<div align="center">
+<h2>Latest Projects</h2>
+</div>
+
+<br>
+
+| [![DonkeyDoc](https://raw.githubusercontent.com/odest/odest/refs/heads/master/DonkeyDoc.png)](https://github.com/odest/DonkeyDoc)  |  [![iClock](https://raw.githubusercontent.com/odest/odest/refs/heads/master/iClock.png)](https://github.com/odest/iClock) |
+|----------------------------------------------|----------------------------------------------|
+
+<br>
+
+<div align="center">
+<h2>Stats</h2>
+</div>
+
+<br>
+
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=odest&hide_border=true&theme=transparent"/> 
 </p>
