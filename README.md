@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.metmuseum.org/art/collection/search/436105">
-    <img alt="La Mort de Socrate" src="https://raw.githubusercontent.com/odest/odest/refs/heads/master/art.jpg" />
+    <img alt="La Mort de Socrate" src="https://raw.githubusercontent.com/odest/odest/refs/heads/master/images/art.jpg" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-| [![DonkeyDoc](https://raw.githubusercontent.com/odest/odest/refs/heads/master/DonkeyDoc.png)](https://github.com/odest/DonkeyDoc)  |  [![iClock](https://raw.githubusercontent.com/odest/odest/refs/heads/master/iClock.png)](https://github.com/odest/iClock) |
+| [![DonkeyDoc](https://raw.githubusercontent.com/odest/odest/refs/heads/master/images/DonkeyDoc.png)](https://github.com/odest/DonkeyDoc)  |  [![iClock](https://raw.githubusercontent.com/odest/odest/refs/heads/master/images/iClock.png)](https://github.com/odest/iClock) |
 |----------------------------------------------|----------------------------------------------|
 
 <br>
