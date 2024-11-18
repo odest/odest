@@ -12,6 +12,22 @@
 
 <br>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/odest/odest.github.io/refs/heads/master/assets/images/logo.gif" alt="logo" width="100" height="100"/>
+</p>
+
+<br>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=000&style=flat)](https://github.com/odest)
+[![GitLab](https://img.shields.io/static/v1?logo=gitlab&label=&message=GitLab&color=000&style=flat)](https://gitlab.com/kodest)
+[![Codeberg](https://img.shields.io/static/v1?logo=codeberg&label=&message=Codeberg&color=000&style=flat)](https://codeberg.org/dest)
+  
+<div align="center">
+
+<br>
+
 <div align="center">
 <h2>Latest Projects</h2>
 </div>
