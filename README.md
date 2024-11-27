@@ -12,9 +12,13 @@
 
 <br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/odest/odest.github.io/refs/heads/master/assets/images/logo.gif" alt="logo" width="100" height="100"/>
-</p>
+<div align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/odest/odest/refs/heads/master/images/logo-dark.gif" media="(prefers-color-scheme: light)">
+    <source srcset="https://raw.githubusercontent.com/odest/odest/refs/heads/master/images/logo-light.gif" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/odest/odest/refs/heads/master/images/logo-light.gif" alt="logo" width="100" height="100">
+  </picture>
+</div>
 
 <br>
 
