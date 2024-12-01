@@ -32,6 +32,12 @@
 
 <br>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=transparent&border_color=006aff)](https://github.com/odest)
+</div>
+
+<br>
+
 <div align="center">
 <h2>Latest Projects</h2>
 </div>
