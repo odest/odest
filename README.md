@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<h1>Welcome to the Dimension of Manifestations</h1>
+<h1>Open Source Makes Your Life Better</h1>
 </div>
 
 <br>
@@ -35,17 +35,6 @@
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=transparent&border_color=006aff)](https://github.com/odest)
 </div>
-
-<br>
-
-<div align="center">
-<h2>Latest Projects</h2>
-</div>
-
-<br>
-
-| [![DonkeyDoc](https://raw.githubusercontent.com/odest/odest/refs/heads/master/images/DonkeyDoc.png)](https://github.com/odest/DonkeyDoc)  |  [![iClock](https://raw.githubusercontent.com/odest/odest/refs/heads/master/images/iClock.png)](https://github.com/odest/iClock) |
-|----------------------------------------------|----------------------------------------------|
 
 <br>
 
